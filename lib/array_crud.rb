@@ -42,5 +42,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+my_array = ["wow","I'm", "learning", "arrays!"]
+  my_array.shift
 end
